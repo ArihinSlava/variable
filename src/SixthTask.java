@@ -43,6 +43,16 @@ public class SixthTask {
         var differenceWeight = firstBoxer - secondBoxer;
         System.out.println("Разница в "+ differenceWeight +"кг!");
 
+        var differencWeight = secondBoxer - firstBoxer;
+        System.out.println("разница в " + differencWeight + " кг!");
+
+        var differenWeight = secondBoxer % firstBoxer;
+        System.out.println("Разница в " + differenWeight + " Кг!");
+
+
+
+
+
 
 
     }
